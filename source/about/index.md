@@ -54,4 +54,3 @@ comments: true
 
 ![](bake-1.jpg)
 ![](bake-2.jpg)
-

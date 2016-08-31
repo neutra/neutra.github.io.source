@@ -4,8 +4,8 @@
 
 # Site
 title: f•ﻌ•l
-subtitle: neutra's space
-description: 之前网站源码丢失了，把历史文章整理了下，重新做了个
+subtitle: 
+description: neutra's space
 author: neutra
 language: zh-CN
 timezone:
@@ -34,7 +34,7 @@ titlecase: false # Transform title into titlecase
 external_link: true # Open external links in new tab
 filename_case: 0
 render_drafts: false
-post_asset_folder: false
+post_asset_folder: true
 relative_link: false
 future: true
 highlight:
@@ -46,12 +46,6 @@ highlight:
 # Category & Tag
 default_category: others
 category_map:
-  android: Android
-  front-end: FrontEnd
-  back-end: BackEnd
-  others: Others
-  photos: Photos
-  drawing: Drawing
 tag_map:
 
 # Date / Time format
@@ -63,7 +57,7 @@ time_format: HH:mm:ss
 
 # Pagination
 ## Set per_page to 0 to disable pagination
-per_page: 25
+per_page: 30
 pagination_dir: page
 
 # Extensions
