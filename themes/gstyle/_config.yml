@@ -1,0 +1,37 @@
+# main menu navigation
+menu:
+  home: /
+  archives: /archives
+  about: /about
+  rss: /atom.xml
+
+# Miscelaneous
+favicon: /favicon.ico
+
+show_post_category: true
+show_post_tags: true
+
+active_nav: true # show active status on nav menu
+
+sidebar: true # whether to show the sidebar
+widgets:
+  - category
+  - tag
+  # tagcloud
+  # archive
+  # recent_posts
+  - links
+links:
+  - title: Github
+    url: http://www.github.com/neutra
+    intro: github
+  - title: 旧博客
+    url: http://www.cnblogs.com/neutra
+    intro: 
+
+# disqus_shortname: wayou
+duoshuo_shortname: neutra
+#site statistic
+google_analytics:
+# baidu_analytics: 392796d51567e848aebf813b65cb8656
+baidu_analytics:
